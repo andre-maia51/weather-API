@@ -2,7 +2,7 @@
 
 Este é um serviço de wrapper de API de clima, construído em Python com Flask. Ele consome a API da Visual Crossing, otimiza as respostas e implementa um sistema de cache com Redis para melhorar a performance e reduzir o número de chamadas externas.
 
-Este projeto foi desenvolvido como parte do [Backend Roadmap](https://roadmap.sh/backend).
+Este projeto foi desenvolvido como parte do [Backend Roadmap]([https://roadmap.sh/backend](https://roadmap.sh/projects/weather-api-wrapper-service)).
 
 ## Tecnologias Utilizadas
 
